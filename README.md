@@ -14,3 +14,5 @@ was observed in 2008. Housing prices touched the peak in 2016 and started fallin
 changes in trends during the period of five years from 2016 to 2021. Through our analysis, we
 will find the market's steadiness and observe the overall average growth of the US housing
 market from 2016 to 2021.
+# Services & Tools
+Amazon Web Services (AWS), Tableau Prep Builder, Tableau, Excel
